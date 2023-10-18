@@ -1,0 +1,82 @@
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;     
+}
+
+.line {
+    color: black;
+    background-color: black;
+    height: 4px;
+}
+
+
+
+#field {
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    z-index: 2;
+}
+
+.title {
+    text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    font-family: "job-clarendon", serif;
+    letter-spacing: 1px;
+    font-size:250%;
+    border-width: 1000px;
+    background-color: white;
+}
+
+.bumble {
+    font-family: "wayfinder-cf", serif;
+    font-size: 780%;
+    font-weight: 100;
+    font-style: normal; 
+    position: relative;
+    display: inline;
+    top: 220px;
+    left: 310px;
+    z-index: 1;
+}
+
+.true {
+    width: 50%;
+    height: 50%;
+    position: relative;
+   left: 730px;
+   top: 200px;
+}
+
+
+
+.syke {
+    font-family: "mynor-variable", sans-serif;
+    font-variation-settings: "ital" 0, "wght" 400, "wdth" 100;
+    max-width: 445px;
+    position: absolute;
+    left: 320px;
+    top: 445px;
+    font-size: 137%;
+    line-height: 115%;
+}
+
+.school {
+    width: 240px;
+    height: 240px;
+    position: absolute;
+    top: 600px;
+    left: 30px;
+
+}
+
+.badum {
+    width: 100%;
+    height: auto;
+    
+}
+
